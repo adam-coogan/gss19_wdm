@@ -9,3 +9,8 @@ Cold dark matter models predict the existence of dark matter halos down to very 
 * Harm van Leijen
 * Kerwin Buijsman
 * Pepijn Clarijs
+
+## References list
+
+You might find it useful to add a list of references here. Add links like this:
+* [Steigman et al 2012](https://arxiv.org/abs/1204.3622)
