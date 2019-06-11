@@ -14,3 +14,4 @@ Cold dark matter models predict the existence of dark matter halos down to very 
 
 You might find it useful to add a list of references here. Add links like this:
 * [Steigman et al 2012](https://arxiv.org/abs/1204.3622)
+* [Schneider 2018](https://arxiv.org/abs/1805.00021)
